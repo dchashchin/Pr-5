@@ -1,1 +1,5 @@
-# Pr 5
+*/bin/
+*/obj/
+ 
+.vs/
+packages/
